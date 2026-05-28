@@ -1,107 +1,156 @@
-```md
-<h1 align="center">Hi 👋, I'm Manan Kumar</h1>
-<h3 align="center">Computer Science Undergraduate @ IIT Ropar 🚀</h3>
+<div align="center">
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Competitive+Programming+Enthusiast;Full+Stack+Learner;DSA+%7C+C%2B%2B+%7C+Problem+Solving;Building+Cool+Projects+%F0%9F%9A%80" />
-</p>
+<!-- Animated Typing Banner -->
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=28&duration=3000&pause=1000&color=6EE7F7&center=true&vCenter=true&width=600&lines=Hey%2C+I'm+Manan+Kumar+%F0%9F%91%8B;CS+Undergrad+%40+IIT+Ropar;Competitive+Programmer;Full+Stack+Developer;Problem+Solver+%7C+Builder)](https://git.io/typing-svg)
 
----
+<br/>
 
-## 🚀 About Me
+<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=for-the-badge&color=0d1117&labelColor=161b22&label=PROFILE+VIEWS" alt="Profile Views" />
 
-- 🎓 Computer Science Undergraduate at **IIT Ropar**
-- 💻 Interested in **Competitive Programming, DSA, Web Development**
-- 🌱 Currently learning **Full Stack Development & System Design**
-- 🧠 Strong interest in solving algorithmic problems
-- ⚡ Fun fact: I debug for hours just to realize I missed a semicolon :)
+</div>
 
 ---
 
-## 🛠 Tech Stack
+## `$ whoami`
+
+```yaml
+name        : Manan Kumar
+education   : B.Tech Computer Science — IIT Ropar
+interests   : Competitive Programming · Full Stack Dev · DSA · Open Source
+currently   : Building projects · Solving problems · Learning every day
+available   : Open to internships & collaborations
+```
+
+---
+
+## 🧠 About Me
+
+- 🎓 Pursuing **B.Tech in Computer Science** at **IIT Ropar**
+- ⚔️ Passionate about **Competitive Programming** — solving algorithmic challenges on Codeforces & LeetCode
+- 🏗️ Love building **full-stack web applications** from idea to deployment
+- 📐 Strong foundation in **Data Structures & Algorithms**
+- 🔍 Constantly exploring new technologies and pushing my problem-solving limits
+- 🤝 Always open to collaborate on interesting projects
+
+---
+
+## 🛠️ Tech Stack
+
+<div align="center">
 
 ### Languages
-<p>
-  <img src="https://skillicons.dev/icons?i=cpp,c,python,java,js,html,css" />
-</p>
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-### Frameworks & Tools
-<p>
-  <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,firebase,tailwind,bootstrap,git,github,vercel,vscode" />
-</p>
+### Frontend
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-0F172A?style=for-the-badge&logo=tailwindcss&logoColor=38BDF8)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+
+### Backend & Database
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+
+### Tools & Platforms
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-161b22?style=for-the-badge&logo=github&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+
+</div>
 
 ---
 
-## 📊 GitHub Analytics
+## 📊 GitHub Stats
 
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" />
-</p>
+<div align="center">
 
-<p align="center">
-  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6EE7F7&icon_color=6EE7F7&text_color=c9d1d9&count_private=true" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6EE7F7&text_color=c9d1d9&langs_count=8" />
+
+<br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true&background=0d1117&ring=6EE7F7&fire=FF6B6B&currStreakLabel=6EE7F7&sideLabels=c9d1d9&dates=c9d1d9&stroke=1F2937" />
+
+</div>
 
 ---
 
-## 🏆 Competitive Programming
+## ⚔️ Competitive Programming
 
-<p align="center">
-  <a href="[YOUR_CODEFORCES_LINK](https://codeforces.com/profile/AKIDNAR)">
-    <img src="https://img.shields.io/badge/Codeforces-Profile-orange?style=for-the-badge&logo=codeforces"/>
-  </a>
-  
-  <a href="[YOUR_LEETCODE_LINK](https://leetcode.com/u/uL2Hy9g4Pw/)">
-    <img src="https://img.shields.io/badge/LeetCode-Profile-yellow?style=for-the-badge&logo=leetcode"/>
-  </a>
-</p>
+<div align="center">
+
+[![Codeforces](https://img.shields.io/badge/Codeforces-YOUR__CODEFORCES-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/YOUR_CODEFORCES)
+&nbsp;&nbsp;
+[![LeetCode](https://img.shields.io/badge/LeetCode-YOUR__LEETCODE-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/YOUR_LEETCODE)
+
+</div>
+
+<br/>
+
+<div align="center">
+
+| Platform | Handle | Focus |
+|:---:|:---:|:---:|
+| 🔵 Codeforces | `YOUR_CODEFORCES` | Algorithms · Graph Theory · DP |
+| 🟡 LeetCode | `YOUR_LEETCODE` | DSA · Interview Prep · Daily Challenges |
+
+</div>
 
 ---
 
 ## 🚀 Featured Projects
 
-### 🔹 Project Name 1
-Brief description of what it does and tech stack used.
+<div align="center">
 
-### 🔹 Project Name 2
-Brief description of what it does and tech stack used.
+| Project | Description | Tech Stack | Links |
+|:---|:---|:---|:---:|
+| 🔧 **Project One** | Brief description of what this project does and the problem it solves | `React` `Node.js` `MongoDB` | [Repo](#) · [Live](#) |
+| 🌐 **Project Two** | Brief description of what this project does and the problem it solves | `Python` `Firebase` `Tailwind` | [Repo](#) · [Live](#) |
+| 📦 **Project Three** | Brief description of what this project does and the problem it solves | `C++` `JavaScript` `HTML/CSS` | [Repo](#) |
+| ⚡ **Project Four** | Brief description of what this project does and the problem it solves | `React` `Vercel` `Bootstrap` | [Repo](#) · [Live](#) |
 
-### 🔹 Project Name 3
-Brief description of what it does and tech stack used.
+</div>
+
+> 📌 *Replace placeholders with your actual project names, descriptions, and links.*
 
 ---
 
 ## 📈 Contribution Graph
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&hide_border=true" />
-</p>
+<div align="center">
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&bg_color=0d1117&color=6EE7F7&line=6EE7F7&point=FFFFFF&area=true&area_color=1e3a4a&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+</div>
 
 ---
 
-## 🌐 Connect With Me
+## 🤝 Connect with Me
 
-<p align="center">
-  <a href="linkedin.com/in/manan-kumar-11b21431b">
-    <img src="https://skillicons.dev/icons?i=linkedin" />
-  </a>
-  
-  <a href="[YOUR_GITHUB](https://github.com/codex-blip)">
-    <img src="https://skillicons.dev/icons?i=github" />
-  </a>
-  
-  <a href="kumarmanan106@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</p>
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN)
+&nbsp;
+[![GitHub](https://img.shields.io/badge/GitHub-161b22?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YOUR_USERNAME)
+&nbsp;
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL)
+
+</div>
 
 ---
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=0e75b6&style=flat" />
-</p>
+<div align="center">
 
-<h3 align="center">✨ Thanks for visiting my profile ✨</h3>
-```
+*"First, solve the problem. Then, write the code."* — John Johnson
 
+<br/>
+
+<sub>Made with 🖤 by Manan Kumar · IIT Ropar</sub>
+
+</div>
