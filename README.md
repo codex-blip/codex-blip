@@ -84,9 +84,9 @@ available   : Open to internships & collaborations
 
 <div align="center">
 
-[![Codeforces](https://img.shields.io/badge/Codeforces-YOUR__CODEFORCES-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/akidnar)
+[![Codeforces](https://img.shields.io/badge/Codeforces-CODEFORCES-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/akidnar)
 &nbsp;&nbsp;
-[![LeetCode](https://img.shields.io/badge/LeetCode-YOUR__LEETCODE-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/uL2Hy9g4Pw)
+[![LeetCode](https://img.shields.io/badge/LeetCode-LEETCODE-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/uL2Hy9g4Pw)
 
 </div>
 
