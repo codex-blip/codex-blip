@@ -97,8 +97,8 @@ available   : Open to internships & collaborations
 
 | Platform | Handle | Focus |
 |:---:|:---:|:---:|
-| 🔵 Codeforces | `YOUR_CODEFORCES` | Algorithms · Graph Theory · DP |
-| 🟡 LeetCode | `YOUR_LEETCODE` | DSA · Interview Prep · Daily Challenges |
+| 🔵 Codeforces | `AKIDNAR` | Algorithms · Graph Theory · DP |
+| 🟡 LeetCode | `uL2Hy9g4Pw` | DSA · Interview Prep · Daily Challenges |
 
 </div>
 
@@ -125,7 +125,7 @@ available   : Open to internships & collaborations
 
 <div align="center">
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&bg_color=0d1117&color=6EE7F7&line=6EE7F7&point=FFFFFF&area=true&area_color=1e3a4a&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=codex-blipE&bg_color=0d1117&color=6EE7F7&line=6EE7F7&point=FFFFFF&area=true&area_color=1e3a4a&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
@@ -135,11 +135,11 @@ available   : Open to internships & collaborations
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/manan-kumar-11b21431b)
 &nbsp;
-[![GitHub](https://img.shields.io/badge/GitHub-161b22?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YOUR_USERNAME)
+[![GitHub](https://img.shields.io/badge/GitHub-161b22?style=for-the-badge&logo=github&logoColor=white)](https://github.com/codex-blip)
 &nbsp;
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kumarmanan396@gmail.com)
 
 </div>
 
