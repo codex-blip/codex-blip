@@ -125,7 +125,7 @@ available   : Open to internships & collaborations
 
 <div align="center">
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=codex-blipE&bg_color=0d1117&color=6EE7F7&line=6EE7F7&point=FFFFFF&area=true&area_color=1e3a4a&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=codex-blip&bg_color=0d1117&color=6EE7F7&line=6EE7F7&point=FFFFFF&area=true&area_color=1e3a4a&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
