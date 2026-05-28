@@ -16,7 +16,7 @@
 ```yaml
 name        : Manan Kumar
 education   : B.Tech Computer Science — IIT Ropar
-interests   : Competitive Programming · Full Stack Dev · DSA · Open Source
+interests   : Competitive Programming · DSA · Open Source
 currently   : Building projects · Solving problems · Learning every day
 available   : Open to internships & collaborations
 ```
@@ -27,7 +27,7 @@ available   : Open to internships & collaborations
 
 - 🎓 Pursuing **B.Tech in Computer Science** at **IIT Ropar**
 - ⚔️ Passionate about **Competitive Programming** — solving algorithmic challenges on Codeforces & LeetCode
-- 🏗️ Love building **full-stack web applications** from idea to deployment
+- 🏗️ Love building **web applications** from idea to deployment
 - 📐 Strong foundation in **Data Structures & Algorithms**
 - 🔍 Constantly exploring new technologies and pushing my problem-solving limits
 - 🤝 Always open to collaborate on interesting projects
@@ -42,7 +42,6 @@ available   : Open to internships & collaborations
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 ### Frontend
