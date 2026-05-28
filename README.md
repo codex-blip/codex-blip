@@ -1,11 +1,11 @@
 <div align="center">
 
 <!-- Animated Typing Banner -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=28&duration=3000&pause=1000&color=6EE7F7&center=true&vCenter=true&width=600&lines=Hey%2C+I'm+Manan+Kumar+%F0%9F%91%8B;CS+Undergrad+%40+IIT+Ropar;Competitive+Programmer;Full+Stack+Developer;Problem+Solver+%7C+Builder)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=28&duration=3000&pause=1000&color=6EE7F7&center=true&vCenter=true&width=600&lines=Hey%2C+I'm+Manan+Kumar+%F0%9F%91%8B;CS+Undergrad+%40+IIT+Ropar;Competitive+Programmer;Tech-Enthusiast;Problem+Solver+%7C+Builder)](https://git.io/typing-svg)
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=for-the-badge&color=0d1117&labelColor=161b22&label=PROFILE+VIEWS" alt="Profile Views" />
+<img src="https://komarev.com/ghpvc/?username=codex-blip&style=for-the-badge&color=0d1117&labelColor=161b22&label=PROFILE+VIEWS" alt="Profile Views" />
 
 </div>
 
@@ -70,12 +70,12 @@ available   : Open to internships & collaborations
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6EE7F7&icon_color=6EE7F7&text_color=c9d1d9&count_private=true" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6EE7F7&text_color=c9d1d9&langs_count=8" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=codex-blip&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6EE7F7&icon_color=6EE7F7&text_color=c9d1d9&count_private=true" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codex-blip&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6EE7F7&text_color=c9d1d9&langs_count=8" />
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true&background=0d1117&ring=6EE7F7&fire=FF6B6B&currStreakLabel=6EE7F7&sideLabels=c9d1d9&dates=c9d1d9&stroke=1F2937" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=codex-blip&theme=tokyonight&hide_border=true&background=0d1117&ring=6EE7F7&fire=FF6B6B&currStreakLabel=6EE7F7&sideLabels=c9d1d9&dates=c9d1d9&stroke=1F2937" />
 
 </div>
 
@@ -85,9 +85,9 @@ available   : Open to internships & collaborations
 
 <div align="center">
 
-[![Codeforces](https://img.shields.io/badge/Codeforces-YOUR__CODEFORCES-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/YOUR_CODEFORCES)
+[![Codeforces](https://img.shields.io/badge/Codeforces-YOUR__CODEFORCES-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/akidnar)
 &nbsp;&nbsp;
-[![LeetCode](https://img.shields.io/badge/LeetCode-YOUR__LEETCODE-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/YOUR_LEETCODE)
+[![LeetCode](https://img.shields.io/badge/LeetCode-YOUR__LEETCODE-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/uL2Hy9g4Pw)
 
 </div>
 
