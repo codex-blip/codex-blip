@@ -109,14 +109,11 @@ available   : Open to internships & collaborations
 
 | Project | Description | Tech Stack | Links |
 |:---|:---|:---|:---:|
-| 🔧 **Project One** | Brief description of what this project does and the problem it solves | `React` `Node.js` `MongoDB` | [Repo](#) · [Live](#) |
-| 🌐 **Project Two** | Brief description of what this project does and the problem it solves | `Python` `Firebase` `Tailwind` | [Repo](#) · [Live](#) |
-| 📦 **Project Three** | Brief description of what this project does and the problem it solves | `C++` `JavaScript` `HTML/CSS` | [Repo](#) |
-| ⚡ **Project Four** | Brief description of what this project does and the problem it solves | `React` `Vercel` `Bootstrap` | [Repo](#) · [Live](#) |
-
+| **RouteWise** | A modular, production-ready Uber clone built with Next.js 14 (App Router), FastAPI, and PostgreSQL. Designed for easy integration of WebSockets, spatial queries, and Stripe payments in subsequent steps. | `FastAPI` `Next.js` `PostgreSQL` | [Repo](https://github.com/codex-blip/RouteWise)|
+| **Multi level cache sim** | A cache simulator powered by Intel PIN + Python + FastAPI + Streamlit Analyze real memory traces and compare cache replacement policies interactively. | `Python` `Firebase` `Tailwind` | [Repo](https://github.com/codex-blip/Multi-Level_Cache_Simulator) |
+| 📦 **Control Flow Graph** |This project builds a Control Flow Graph (CFG) from C programs, runs static analysis, applies compiler-style optimizations, and generates before/after graph visualizations.| `Python` `JavaScript` `HTML/CSS` | [Repo](https://github.com/codex-blip/cfg_project) |
 </div>
 
-> 📌 *Replace placeholders with your actual project names, descriptions, and links.*
 
 ---
 
